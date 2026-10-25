@@ -1,0 +1,206 @@
+{
+  "version": 1,
+  "login": "meowwsense",
+  "seed": "#6A598A",
+  "seedFromAvatar": true,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "",
+    "subtitle": "I build interfaces and small useful tools.",
+    "typing": true,
+    "avatarShape": "cookie",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Earth"
+      },
+      {
+        "icon": "code",
+        "label": "TypeScript · Python"
+      },
+      {
+        "icon": "verified",
+        "label": "Niri"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Developer and designer"
+      },
+      {
+        "icon": "code",
+        "label": "Mostly frontend"
+      },
+      {
+        "icon": "palette",
+        "label": "Into Material Design"
+      },
+      {
+        "icon": "brand:gamejolt",
+        "label": "Gamer"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:archlinux",
+            "label": "ArchLinux"
+          },
+          {
+            "icon": "brand:cplusplus",
+            "label": "C++"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:typescript",
+            "label": "TypeScript"
+          },
+          {
+            "icon": "brand:html5",
+            "label": "HTML"
+          },
+          {
+            "icon": "brand:lua",
+            "label": "Lua"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:gmail",
+            "label": "Gmail"
+          },
+          {
+            "icon": "brand:figma",
+            "label": "Figma"
+          },
+          {
+            "icon": "brand:github",
+            "label": "GitHub"
+          },
+          {
+            "icon": "brand:claudecode",
+            "label": "ClaudeCode"
+          },
+          {
+            "icon": "brand:zdotai",
+            "label": "GLM"
+          },
+          {
+            "icon": "brand:zedindustries",
+            "label": "Zed"
+          }
+        ]
+      },
+      {
+        "title": "My hobbies",
+        "items": [
+          {
+            "icon": "brand:fortnite",
+            "label": "Fortnite"
+          },
+          {
+            "icon": "brand:roblox",
+            "label": "Roblox"
+          },
+          {
+            "icon": "brand:youtubegaming",
+            "label": "Minecraft"
+          },
+          {
+            "icon": "brand:spotify",
+            "label": "Spotify"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "Nexus",
+      "assets",
+      "Personalization",
+      "modules-web"
+    ],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/meowwsense"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/meowwsense"
+      },
+      {
+        "icon": "brand:x",
+        "url": "https://x.com/Obal9uy4ik"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://meowwsense.loc.cc",
+        "style": "filled"
+      }
+    ],
+    "card": false
+  }
+}
